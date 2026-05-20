@@ -1,6 +1,0 @@
-{
-  "framework": "vite",
-  "buildCommand": "pnpm --filter client build",
-  "outputDirectory": "client/dist",
-  "cleanUrls": true
-}
