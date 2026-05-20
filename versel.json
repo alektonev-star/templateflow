@@ -1,0 +1,5 @@
+{
+  "buildCommand": "pnpm --filter client build",
+  "outputDirectory": "client/dist",
+  "framework": "vite"
+}
